@@ -1,0 +1,86 @@
+{"chunk":null,"ts":"2026-09-25T17:25:08Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: unused argument (na.rm = TRUE)"}
+{"chunk":null,"ts":"2026-09-25T17:48:19Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: operations are possible only for numeric, logical or complex types"}
+{"chunk":null,"ts":"2026-09-25T17:48:35Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: object 'population_type' not found"}
+{"chunk":null,"ts":"2026-09-25T17:48:47Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: object 'population_type' not found"}
+{"chunk":null,"ts":"2026-09-25T17:52:17Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: unused arguments (\"ovary_height\", \"flower_number\")"}
+{"chunk":null,"ts":"2026-09-25T17:58:52Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: operations are possible only for numeric, logical or complex types"}
+{"chunk":null,"ts":"2026-09-25T17:59:33Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: undefined columns selected"}
+{"chunk":null,"ts":"2026-09-25T18:00:18Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: undefined columns selected"}
+{"chunk":null,"ts":"2026-09-25T18:36:50Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:50Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:50Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:50Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:51Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:36:52Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: argument is not numeric or logical: returning NA"}
+{"chunk":null,"ts":"2026-09-25T18:46:56Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: object 'include' not found"}
+{"chunk":null,"ts":"2026-09-25T18:52:45Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: could not find function \"kable\""}
+{"chunk":null,"ts":"2026-09-25T18:59:23Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: package ‘ggplot2’ was built under R version 4.4.3"}
+{"chunk":null,"ts":"2026-09-25T19:11:12Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: could not find function \"them_classic\""}
+{"chunk":null,"ts":"2026-09-25T19:15:42Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected ','"}
+{"chunk":null,"ts":"2026-09-25T19:15:48Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-25T19:15:57Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: object 'ovary_area' not found"}
+{"chunk":null,"ts":"2026-09-25T19:18:55Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: attempt to apply non-function"}
+{"chunk":null,"ts":"2026-09-25T19:19:30Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: attempt to apply non-function"}
+{"chunk":null,"ts":"2026-09-25T19:20:11Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22m`data` must be a \u001b[34m<data.frame>\u001b[39m, or an object\ncoercible by `fortify()`, or a valid\n\u001b[34m<data.frame>\u001b[39m-like object coercible by\n`as.data.frame()`.\n\u001b[1mCaused by error in `check_data_frame_like()`:\u001b[22m\n\u001b[1m\u001b[22m\u001b[33m!\u001b[39m `dim(data)` must return an \u001b[34m<integer>\u001b[39m of\n  length 2."}
+{"chunk":null,"ts":"2026-09-25T19:21:28Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22mProblem while computing aesthetics.\n\u001b[36mℹ\u001b[39m Error occurred in the 1st layer.\n\u001b[1mCaused by error in `check_aesthetics()`:\u001b[22m\n\u001b[1m\u001b[22m\u001b[33m!\u001b[39m Aesthetics must be either length 1 or the\n  same as the data (46).\n\u001b[31m✖\u001b[39m Fix the following mappings: `x`."}
+{"chunk":null,"ts":"2026-09-25T19:31:46Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T19:32:38Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T19:33:52Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T19:34:00Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T19:34:12Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T19:34:48Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T19:36:18Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-25T19:36:49Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected ','"}
+{"chunk":null,"ts":"2026-09-25T19:37:11Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mArguments in `...` must be used.\n\u001b[31m✖\u001b[39m Problematic argument:\n\u001b[36m•\u001b[39m echo = F\n\u001b[36mℹ\u001b[39m Did you misspell an argument name?"}
+{"chunk":null,"ts":"2026-09-25T19:37:11Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T19:37:43Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:39:56Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:40:53Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:46:49Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:47:01Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:47:14Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:47:20Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:47:31Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T20:48:37Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-25T20:48:49Z","pid":12468,"engine":"r","severity":"warning","render":false,"warning":"## Warning: \u001b[1m\u001b[22mIgnoring unknown aesthetics: \u001b[32mbinwidth\u001b[39m"}
+{"chunk":null,"ts":"2026-09-25T21:59:28Z","pid":12468,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
